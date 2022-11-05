@@ -8,6 +8,7 @@ public class FactorialDemo {
 			
 		}
 		System.out.println("Factorial of "+number+" is: "+factorial);
+		System.out.println("First Recommit");
 		
 	}
 
